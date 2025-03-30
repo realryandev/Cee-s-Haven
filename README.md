@@ -1,27 +1,36 @@
-# ✨ Cee's Haven ✨
+This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
-Welcome to Cee's 💖 This is where she keeps all her favorite moments, big and small. Think of it like a digital journal filled with sunshine and smiles. ☀️
+## Getting Started
 
-## What's Inside? 📖
+First, run the development server:
 
-* **Adventures:** Pictures and stories from fun trips and outings. 🏞️
-* **Friendship Fun:** Sweet moments with my amazing friends. 👯‍♀️
-* **Happy Days:** Little things that make me smile. 😊
+```bash
+npm run dev
+# or
+yarn dev
+# or
+pnpm dev
+# or
+bun dev
+```
 
-## How it's Made 💻
+Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-This website is built using:
+You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
 
-* **Next.js:** For the structure of the pages. 🧱
-* **TailwindCSS:** To make it look pretty and colorful! 🌈
-* **tYPEScript:** For some extra sparkle and interactivity. ✨
+This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
 
-## Future Plans 🚀
+## Learn More
 
-I'm always adding new things! Maybe I'll add a guestbook or a place for you to leave comments. 📝
+To learn more about Next.js, take a look at the following resources:
 
-## Let's Connect! 💌
+- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
+- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
 
-Feel free to explore and enjoy! I hope it brings a smile to your face. 😊
+You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
 
-Thanks for visiting! 🌸
+## Deploy on Vercel
+
+The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+
+Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
