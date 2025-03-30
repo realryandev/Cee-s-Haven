@@ -1,4 +1,4 @@
-# ✨ Vee's Haven ✨
+# ✨ Cee's Haven ✨
 
 Welcome to Cee's 💖 This is where she keeps all her favorite moments, big and small. Think of it like a digital journal filled with sunshine and smiles. ☀️
 
